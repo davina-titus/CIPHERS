@@ -1,4 +1,4 @@
-# Ciphers — Classical Encryption & Decryption 🔐
+# Ciphers — Encryption & Decryption 🔐
 
 A C++ program that implements multiple classical cipher algorithms 
 for encrypting and decrypting text, exploring the foundations of 
