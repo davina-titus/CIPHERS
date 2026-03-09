@@ -56,4 +56,3 @@ make
 - **C++** with Makefile build system
 
 ---
-*Project 1 — CS coursework @ University of Illinois Chicago*
